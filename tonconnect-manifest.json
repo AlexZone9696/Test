@@ -1,0 +1,5 @@
+{
+  "url": "https://test.tronminer.site",                        // required
+  "name": "Dogs Claim",                      // required
+  "iconUrl": "https://test.tronminer.site/dogslogo.png",               // required
+}
